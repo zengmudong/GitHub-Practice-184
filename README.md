@@ -35,6 +35,8 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |  
+| Arwa Hararwala| Section 002      | ArwaHarar           | <https://arwaharar.github.io/ArwaHararwala-STAT184/>|  
+
 
 
 <br>
