@@ -35,7 +35,7 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |  
-
+| Yizhang Li    | Section 002      | yizhang325          | <https://yizhang325.github.io/GitHub-Practice-184/>    |  
 
 <br>
 
