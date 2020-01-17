@@ -34,8 +34,8 @@
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
-| Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |
-| Justin Huang | Section 002 | xinging-birds | <https://xinging-birds.github.io/ofod> |
+| Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |  
+| Julia Wurzel  | Section 002      | jkw5638         |  <https://jkw5638.github.io/stat184wurzel/>    |  
 
 
 <br>
