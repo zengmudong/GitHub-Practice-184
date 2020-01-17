@@ -35,7 +35,7 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |  
-
+| Hogeun Choi   | Section 002      | hvc5271             | <https://hvc5271.github.io/Hogeun-Choi-STAT184/>    |
 
 <br>
 
