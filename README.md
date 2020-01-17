@@ -35,6 +35,8 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |  
+| Michael Fanelli   | Section 002      | mjf6001          | <https://mjf6001.github.io/michaelfanelli-STAT184/>|  
+ 
 
 
 <br>
