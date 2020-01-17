@@ -35,7 +35,7 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |
-| Justin Huang | Section 002 | xinging-birds | <https://xinging-birds.github.io/ofod> |
+| Kaleigh Strohl| Section 002      | kds5513             | <https://kds5513.github.io/kaleigh-strohl/>     |
 
 
 <br>
