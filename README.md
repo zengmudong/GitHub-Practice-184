@@ -36,7 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |
 | Justin Huang | Section 002 | xinging-birds | <https://xinging-birds.github.io/ofod> |
-
+| Shaohan Wang  | Section 002      | svw5523             | <https://svw5523.github.io/STAT184-Assignment-1/>
 
 <br>
 
