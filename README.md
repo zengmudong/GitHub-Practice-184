@@ -50,6 +50,8 @@
 | Jingzhe Han   | Section 002      | Jingzhe-Han-Stat184 | <https://drrichardhan.github.io/Jingzhe-Han-Stat184/> |
 | So I Kwak     | Section 002      | soikwak             | <https://soikwak.github.io/soikwak/>     |
 | Justin Huang | Section 002 | xinging-birds | <https://xinging-birds.github.io/ofod> |
+| Debanshu Das | Section 002 | debanshu98 | <https://github.com/debanshu98/STAT184> |
+
 
 # Integration of RStudio with Git
 
