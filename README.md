@@ -35,6 +35,7 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |  
+| Julia Wurzel  | Section 002      | jkw5638         |  <https://jkw5638.github.io/stat184wurzel/>    |  
 | Michael Fanelli   | Section 002      | mjf6001          | <https://mjf6001.github.io/michaelfanelli-STAT184/>|  
 | Benson Wainaina   | Section 002      | kamau96          |  <https://kamau96.github.io/BensonWainaina1-STAT184/>    |  
 | Michelle Suhendra   | Section 002      | michellesuhendra          | <https://michellesuhendra.github.io/michellesuhendra-STAT184/>   |
