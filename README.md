@@ -35,6 +35,7 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |  
+| Michael Fanelli   | Section 002      | mjf6001          | <https://mjf6001.github.io/michaelfanelli-STAT184/>|  
 | Benson Wainaina   | Section 002      | kamau96          |  <https://kamau96.github.io/BensonWainaina1-STAT184/>    |  
 | Michelle Suhendra   | Section 002      | michellesuhendra          | <https://michellesuhendra.github.io/michellesuhendra-STAT184/>   |
 | Yixiao Jiang   | Section 002      | yxj38          | <https://yxj38.github.io/Yixiao-Jiang-STAT184/>    |  
