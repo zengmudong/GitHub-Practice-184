@@ -34,8 +34,8 @@
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
-
 | Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |  
+| Michelle Suhendra   | Section 002      | michellesuhendra          | <https://michellesuhendra.github.io/michellesuhendra-STAT184/>   |
 | Yixiao Jiang   | Section 002      | yxj38          | <https://yxj38.github.io/Yixiao-Jiang-STAT184/>    |  
 | Hogeun Choi   | Section 002      | hvc5271             | <https://hvc5271.github.io/Hogeun-Choi-STAT184/>    |
 | Soungmun Kim      | Section 002       | soungmunkim          | <https://soungmunkim.github.io/soungmunkim-STAT184/>    |  
