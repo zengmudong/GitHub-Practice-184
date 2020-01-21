@@ -35,9 +35,18 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |  
+
 | Yizhang Li    | Section 002      | yizhang325          | <https://yizhang325.github.io/GitHub-Practice-184/>    |  
 
-<br>
+| Arwa Hararwala| Section 002      | ArwaHarar           | <https://arwaharar.github.io/ArwaHararwala-STAT184/>|  
+| Jingzhe Han   | Section 002      | Jingzhe-Han-Stat184 | <https://drrichardhan.github.io/Jingzhe-Han-Stat184/> |
+| Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |
+| So I Kwak     | Section 002      | soikwak             | <https://soikwak.github.io/soikwak/>     |
+| Justin Huang | Section 002 | xinging-birds | <https://xinging-birds.github.io/ofod> |
+
+
+
+
 
 # Integration of RStudio with Git
 
