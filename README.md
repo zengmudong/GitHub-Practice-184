@@ -54,7 +54,8 @@
 | Debanshu Das | Section 002 | debanshu98 | <https://github.com/debanshu98/STAT184> |
 | Shaohan Wang | Section 002 | svw5523    | <https://svw5523.github.io/STAT184-Assignment-1/> |
 | Hyunwoo Kim  | Section 002 | hyunwoo312 | <https://hyun.app> |
-
+| Evelyn Murray  | Section 002 | evelynmurray28 | <https://github.com/STAT184002/week4-evelynmurray28.git> |
+| Joseph Pevner  | Section 002 | josephpevner | <https://github.com/josephpevner/josephpevner-STAT184.git> |
 # Integration of RStudio with Git
 
 - Simplified instructions: [Data Computing eBook--Appendix: Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
